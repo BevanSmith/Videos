@@ -12,7 +12,7 @@ The data set is called FYMarksMinute2.csv.  There are 80 features, each represen
 
 ##  Coding
 I run all the analyses in Python Jupyter Notebook.  In this analysis I have made use of sklearn and various libraries.
-The Jupyter NOtebook is called Videos feature selection.ipynb
+The Jupyter Notebook is called Videos feature selection.ipynb
 
  
 
